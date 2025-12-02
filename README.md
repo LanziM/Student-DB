@@ -12,4 +12,4 @@
 ├── static/               # Статика (CSS, JS)
 ├── database.db           # SQLite‑база данных
 ├── config.py             # Настройки (email, пути)
-└── requirements.txt      # Зависимости 123
+└── requirements.txt      # Зависимости
